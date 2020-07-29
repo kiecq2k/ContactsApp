@@ -1,0 +1,10 @@
+C:\Users\barto\Documents\Programowanie\C#\WinForms\Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\barto\Documents\Programowanie\C#\WinForms\Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Users\barto\Documents\Programowanie\C#\WinForms\Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Users\barto\Documents\Programowanie\C#\WinForms\Contacts\Contacts\obj\Debug\Contacts.csprojAssemblyReference.cache
+C:\Users\barto\Documents\Programowanie\C#\WinForms\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\Users\barto\Documents\Programowanie\C#\WinForms\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+C:\Users\barto\Documents\Programowanie\C#\WinForms\Contacts\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\barto\Documents\Programowanie\C#\WinForms\Contacts\Contacts\obj\Debug\Contacts.exe
+C:\Users\barto\Documents\Programowanie\C#\WinForms\Contacts\Contacts\obj\Debug\Contacts.pdb
+C:\Users\barto\Documents\Programowanie\C#\WinForms\Contacts\Contacts\obj\Debug\Contacts.Contacts.resources
